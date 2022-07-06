@@ -58,8 +58,4 @@ if ( $sent && $error === false ) :
 			<input type="submit" value="Enviar Comprovante"/>
 		</form>
 	</div>
-<?php endif;
-
-do_action( 'html-woocommerce-receipt-form-vinci-extension' );
-
-?>
+<?php endif; ?>

@@ -195,9 +195,5 @@ if ( ! defined( 'ABSPATH' ) ) { exit; }
 			</a>
 		<?php endif; ?>
 	</div>
-	<?php endif;
-	
-	do_action( 'html-woocommerce-payment-instructions-vinci-extension' );
-	
-	?>
+	<?php endif; ?>
 </div>

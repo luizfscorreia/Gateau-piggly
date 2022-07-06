@@ -34,7 +34,3 @@ $banner = CoreConnector::plugin()->getUrl().'assets/images/banner-'.CoreConnecto
 		</div>
 	</div>
 </div>
-
-<?php
-    do_action( 'html-woocommerce-instructions-vinci-extension' );
-?>
